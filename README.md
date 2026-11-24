@@ -1,8 +1,7 @@
 # 이도영 포트폴리오
 
-로봇 소프트웨어와 임베디드 시스템에 관심을 두고 진행한 실습과 앞으로 개발할 프로젝트를 소개합니다.
+ROS 2 로봇팔 제어, PC–Jetson 통신, MuJoCo 실습을 정리한 개인 포트폴리오입니다.
 
-- `index.html`은 개인 소개, 로봇팔 응답 비교 도구 기획, 경험을 담은 정적 페이지입니다.
-- `resume.pdf`는 사이트에서 내려받을 수 있는 1쪽 이력서입니다.
+[포트폴리오 보기](https://odinxd.github.io/portfolio/)
 
 별도 빌드 없이 `index.html`을 브라우저에서 열 수 있습니다. GitHub Pages에서 게시할 때는 **Settings → Pages**에서 소스를 **Deploy from a branch**, 브랜치와 폴더를 **main / (root)**로 설정합니다.
